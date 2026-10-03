@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.gradle/
+.idea/
+*.log
+.env
+.env.*
+!.env.example
+google-services.json
+firebase-debug.log
+.DS_Store
